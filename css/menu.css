@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(20, 114, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+title{
+    border: 25px;
+}
+
+div{
+    border-color: blueviolet;
+    border-top: 100ch;
+    border: 100ch;
+}
+.main-wrapper {
+    height: 100vh;
+    }
+    
+    .sectionf{
+    margin: 80;
+    height: 100%;
+    }
+    
+    .lLogof{
+    font-weight: bold;
+    font-size: 7em;
+    }
+    .menu a {
+    font-weight: 200;
+    }
+    
+    .roundItem{
+    width: 22px;
+    height: 22px;
+    background-color: rgb(43, 192, 180);
+    border-radius: 100%;
+    position: relative;
+    border: 2px solid rgb(136, 216, 44);
+    }
+    
+    .LineUp{
+    width: 26px;
+    height: 4px;
+    background-color: black;
+    position:absolute;
+    transform: rotate(90deg);
+    bottom: 30px;
+    left: -4px;
+    }
+    
+    .year{
+    position: absolute;
+    right: 25px;
+    font-size: 0.8em;
+    }
+    
+    .timeline{
+    margin-left: Sem;
+    }
